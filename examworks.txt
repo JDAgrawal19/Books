@@ -208,7 +208,7 @@ accuse accustom accustomed ache achieve achievement acid spelling globe morning
 acquaintance acquire acre across act action active activity actor actress
 actual actually acute ad adapt add addition additional address adequate
 adjective adjust administration admire admission admit adopt adult advance advanced
-advantage adventure adverb advertisement advice advisable advise aeroplane affair speed
+advantage adventure adverb advertisement advice advisable advise aeroplane affair sparrow
 affection afford afraid Africa African after afternoon afterward again specify
 age agency agent aggressive ago agony agree agreement agriculture ahead
 aid aim air aircraft treaty specific specialist speciality specialize specially 
@@ -647,4 +647,4 @@ softly soil soil solar soldier sole solely solemn solid soluble
 solution solve some somehow someone something sometime sometimes somewhat somewhere
 son song soon sophisticated sore sorrow sorry sort soul sound
 soup sour source south southeast southern southwest Soviet sow space
-spacecraft spaceship spade span Spanish spare spark sparkle sparrow
+spacecraft spaceship spade span Spanish spare spark sparkle
