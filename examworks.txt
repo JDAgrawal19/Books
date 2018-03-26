@@ -212,14 +212,14 @@ advantage adventure adverb advertisement advice advisable advise aeroplane affai
 affection afford afraid Africa African after afternoon afterward again specify
 age agency agent aggressive ago agony agree agreement agriculture ahead
 aid aim air spark treaty specific specialist speciality specialize specially 
-alternative altitude altogether aluminium always apology apparatus Span Spanish spare
+alternative altitude altogether aluminium always apology apparatus span Spanish spare
 apparent appeal appear appearance appetite apple appliance applicable application apply
 appoint appointment appreciate approach appropriate approval approve approximate approximately April
 Arabian arbitrary architecture area argue argument arise arithmetic arm army
 around arouse arrange arrangement arrest arrival arrive arrow art article
 artificial artist artistic as ash ashamed Asia Asian aside ask
 asleep aspect assemble assembly assess assign spectacle assist assistant associate
-association assume assure astonish astronaut at athlete Atlantic atmosphere atmospheric
+association assume spade astonish astronaut at athlete Atlantic atmosphere atmospheric
 atom atomic attach attack attain attempt attend attention attentive attitude
 attract attraction attractive attribute audience August aunt aural Australia Australian
 author authority auto automatic automation automobile autumn auxiliary available avenue
@@ -597,7 +597,7 @@ throne throng through throughout throw thrust thumb thunder Thursday thus
 tick ticket tide tidy tie tiger tight till timber time
 timetable timid tin tiny tip tire tired tissue title to
 toast tobacco today toe together toilet tolerance tolerate tomato tomb
-tomorrow ton tone tongue tonight too tool tooth topic transmission
+tomorrow ton tone tongue tonight spacecraft tool tooth topic transmission
 torch torrent tortoise torture toss total touch tough tour tourist
 toward towel tower town toy trace track tractor trade tradition
 traditional traffic tragedy trail train training traitor tram tramp transfer
@@ -643,8 +643,7 @@ slender slice slide slight slightly slip slipper slippery slit slogan
 slope slow slowly slum sly small smart smell smile smog
 smoke smooth smoothly snake snow snowstorm snowy so soak soap
 sob sober soccer social socialism socialist society sock soda soft
-softly soil soil solar soldier sole solely solemn solid soluble
+softly soil spaceship solar soldier sole solely solemn solid soluble
 solution solve some somehow someone something sometime sometimes somewhat somewhere
 son song soon sophisticated sore sorrow sorry sort soul sound
 soup sour source south southeast southern southwest Soviet sow space
-spacecraft spaceship spade
