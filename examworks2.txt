@@ -123,7 +123,7 @@ flow flower flu fluent respectful flush fly training fog fold
 folk tourist following fond food fool foolish foot football footstep
 for forbid force forecast forehead foreign foreigner foremost forest forever
 forget forgive fork form formal formation thrive formula forth fortnight
-fortunate fortunately fortune forty roast toy simplicity fountain four fourteen
+fortunate fortunately fortune forty roast toy tag fountain four fourteen
 fourth fox fraction fragment frame framework France slope free freedom
 freely saddle freight French frequency frequent frequently repeatedly friction Friday
 fridge friend friendly friendship frighten frog site front frontier frost
@@ -215,7 +215,7 @@ jet jewel jewish Saturday join joint joke jolly journal journalist
 journey responsible joyful judge judgement juice July jump June jungle
 junior jury scarcely justice justify keen keep keeper kettle key
 keyboard kick theirs kill kilogram kilometer kind kindness king kingdom
-kiss kitchen kite representative kneel knife knit knob knock knot
+tablet kitchen kite representative kneel knife knit knob knock knot
 know tram secretary label laboratory labour lace tray ladder lady
 lag lake lamb lame lamp land landing landlady landlord lane
 routine lantern smoke see largely laser ridiculous tired lately tea
@@ -297,7 +297,7 @@ plus pocket poem poet poetry point poison poisonous pole pole
 tie policeman policy polish polite political retreat sixth pollute pollution
 pond thirsty soul pop popular transportation porch pork porridge port
 portable porter portion portrait Portuguese spear positive possess possession possibility
-possible possibly post postage postman postpone pot potato side pound
+possible possibly post postage postman postpone pot potato tail pound
 pour poverty powder similarly separation resident practically practice practise select
 pray riddle precaution preceding precious precise precision predict preface prefer
 preferable preference prejudice preliminary premier semester republican preposition prescribe seller
@@ -327,4 +327,3 @@ seem refine shade reflection reflexion reform refresh refreshment refrigerator r
 refusal refuse refute regard regarding regardless region register regret regular
 regularly regulate regulation rehearsal reign rein reinforce reject rejoice relate
 relation toast relative relatively relativity relax tissue transfer somewhere scare
-tablet tag tail
