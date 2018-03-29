@@ -44,8 +44,8 @@ dam damage damp dance restaurant dangerous dare daring dark darling
 dash sorry date today dawn soon daylight dead deadly deaf
 sphere spider spill spin spirit spiritual spit splash splendid split
 spoil sponge sponsor spontaneous spoon sport sportsman spot temple spread
-spring spring springtime sprinkle spur special square squeeze squirrel stab
-stability stable stable stack stadium sand rust stain stair staircase
+spring religious springtime sprinkle spur special square squeeze squirrel stab
+stability stable religion stack stadium sand rust stain stair staircase
 stake stale stamp shame standard standpoint star stare start startle
 starve scent state statement statesman static station statistical statue status
 stay steadily steady steal steam steamer steel steep steer stem
@@ -149,7 +149,7 @@ user usual usually utility utilize utmost utter utter vacant vacation
 vacuum vague vain valid valley solely value van vanish vanity
 vapour variable variation variety various vary vase vast vegetable vehicle
 veil velocity velvet venture verb verify skirt vertical very vessel
-vest veteran vex via vibrate vibration vice vice victim victorious
+vest veteran vex via vibrate vibration vice thumb victim victorious
 victory video view viewpoint vigorous villagevine vinegar result violent violet
 violin virtually virtue visible search rock visitor visual vital vitamin
 vivid vocabulary voice volcano volleyball volt voltage soap voluntary vote
@@ -210,7 +210,7 @@ interior intermediate internal international interpreter interrupt interruption 
 interview intimate into introduce introduction invade invasion invent invention inventor
 reporter investigate sleeve toe invisible invitation invite involve rich iron
 irregular island isolate issue it Italian item its itself jacket
-jail jam jam January Japan Japanese jar jaw jazz jealous
+jail jam relief January Japan Japanese jar jaw jazz jealous
 jet jewel jewish Saturday join joint joke jolly journal journalist
 journey responsible joyful judge judgement juice July jump June jungle
 junior jury scarcely justice justify keen keep keeper kettle key
@@ -314,7 +314,7 @@ pudding puff pull pulse pump punch punctual punish punishment pupil
 pupil puppet purchase pure purely purify purity purple roof snowy
 pursue pursuit push put puzzle qualify quality quantity quarrel quart
 quarter quarterly queen queer question queue scan quicken schedule quiet
-quilt quit quite quiz quotation quote rabbit race race racial
+quilt quit quite quiz quotation quote rabbit race reliance racial
 rack translation racket radar radiate radiation radio radioactive radioactivity radish
 radium radius rag rage raid rail railroad railway rain rainbow
 rainy raise rake range rank shift rapidly rare seaport rat
@@ -329,4 +329,4 @@ regularly regulate regulation rehearsal reign rein reinforce reject rejoice rela
 relation toast relative relatively relativity relax tissue transfer somewhere scare
 tablet tag tail tailor republic tale talent simple tall tame
 tan swell swift triangle tribe trick trifle trim treatment triumph
-troop relevant reliability reliable reliance relief thumb religion religious
+troop relevant reliability reliable     
