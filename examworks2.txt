@@ -6,7 +6,7 @@ cart carve telegram telegraph cash cassette cast castle play cat
 catalog safely cathedral cattle cause cave cease ceiling celebrate cell
 cellar cement cent centigrade centimetre slender centre shore ceremony certain
 theoretical certainty certificate chain scatter chairman chalk challenge chamber champion
-chance scenery channel tortoise toilet characteristic charge charity charmin chart
+chance scenery channel tortoise toilet characteristic charge charity safe chart
 thought cheap cheat check cheek cheer cheerful cheese soldier chemist
 chemistry cheque cherry chess snowstorm chew chicken shopping child shall
 childish chill chimney reserve China Chinese chocolate choice choke smell
@@ -308,7 +308,7 @@ probability probable them problem procedure scarce serve procession proclaim pro
 product production productive profession territory professor profit program progress progressive
 prohibit project prominent promise promising promote prompt pronoun pronounce shelf
 proof proper tight proportion proportional proposal propose prospect tropical trouble
-troublesome trousers truck prosperity prosperous tear safe protective protein protest
+troublesome trousers truck prosperity prosperous tear simple protective protein protest
 proud prove provide provided province provision psychological soluble publication publish
 pudding puff pull pulse pump punch punctual punish punishment pupil
 pupil puppet purchase pure purely purify purity purple roof snowy
@@ -327,4 +327,4 @@ seem refine shade reflection reflexion reform refresh refreshment refrigerator r
 refusal refuse refute regard regarding regardless region register regret regular
 regularly regulate regulation rehearsal reign rein reinforce reject rejoice relate
 relation toast relative relatively relativity relax tissue transfer somewhere scare
-tablet tag tail tailor republic tale talent simple  
+tablet tag tail tailor republic tale talent   
