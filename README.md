@@ -26,3 +26,4 @@ Spy the Lie: Former CIA Officers Teach You How to Detect Deception              
 The Art of Intelligence: Lessons from a Life in the CIA's Clandestine Service                                                          | Henry A. Crumpton
 The Official CIA Manual of Trickery and Deception                                                                                      | H. Keith Melton
 The U.S. Navy SEAL Survival Handbook: Learn the Survival Techniques and Strategies of America's Elite Warriors (US Army Survival)      | Don Mannpdf
+Work Like a Spy: Business Tips from a Former CIA Officer                                                                               | J.C. Carleson
