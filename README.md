@@ -27,3 +27,4 @@ The Art of Intelligence: Lessons from a Life in the CIA's Clandestine Service   
 The Official CIA Manual of Trickery and Deception                                                                                      | H. Keith Melton
 The U.S. Navy SEAL Survival Handbook: Learn the Survival Techniques and Strategies of America's Elite Warriors (US Army Survival)      | Don Mannpdf
 Work Like a Spy: Business Tips from a Former CIA Officer                                                                               | J.C. Carleson
+Survive Like a Spy: Real CIA Operatives Reveal How They Stay Safe in a Dangerous World and How You Can Too                             | Jason Hanson
