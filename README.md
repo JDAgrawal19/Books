@@ -28,3 +28,4 @@ The Official CIA Manual of Trickery and Deception                               
 The U.S. Navy SEAL Survival Handbook: Learn the Survival Techniques and Strategies of America's Elite Warriors (US Army Survival)      | Don Mannpdf
 Work Like a Spy: Business Tips from a Former CIA Officer                                                                               | J.C. Carleson
 Survive Like a Spy: Real CIA Operatives Reveal How They Stay Safe in a Dangerous World and How You Can Too                             | Jason Hanson
+The Culture Code: The Secrets of Highly Successful Groups                                                                              | Daniel Coyle
