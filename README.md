@@ -29,3 +29,8 @@ The U.S. Navy SEAL Survival Handbook: Learn the Survival Techniques and Strategi
 Work Like a Spy: Business Tips from a Former CIA Officer                                                                               | J.C. Carleson
 Survive Like a Spy: Real CIA Operatives Reveal How They Stay Safe in a Dangerous World and How You Can Too                             | Jason Hanson
 The Culture Code: The Secrets of Highly Successful Groups                                                                              | Daniel Coyle
+The Nonverbal Advantage: Secrets and Science of Body Language at Work                                                                  | Carol Kinsey Goman
+The Silent Language of Leaders: How Body Language Can Help--or Hurt--How You Lead                                                      | Carol Kinsey Goman
+Nonverbal Communication: Science and Applications                                                                                      | David Matsumoto,Mark G. Frank,Hyi Sung Hwang
+Nonverbal Communication (Handbooks of Communication Science)                                                                           | Judith A. Hall
+APA Handbook of Nonverbal Communication (Apa Handbooks in Psychology)                                                                  | David Matsumoto,Hyisung C. Hwang
